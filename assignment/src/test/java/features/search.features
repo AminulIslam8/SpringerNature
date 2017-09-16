@@ -3,7 +3,7 @@
 Feature: validate search functionality
 
 
-  Scenario Outline: validate search functionality returns a valid message with valid text
+  Scenario Outline: validate search functionality returns a valid message and count with valid text
     Given I am on the homepage
     When  I search with text "<text>"
     Then  search should provide a correct search count message
@@ -15,7 +15,7 @@ Feature: validate search functionality
       |rubber |
 
 
-  Scenario Outline: validate search functionality returns an error message with wrong text
+  Scenario Outline: validate search functionality returns a message and 0 count with wrong text
     Given I am on the homepage
     When  I search with text "<text>"
     Then  search should provide a null search count message
