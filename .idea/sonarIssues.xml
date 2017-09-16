@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/com/assesment/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/com/assesment/csv/CsvReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/com/assesment/file/FilesManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/home/com/assesment/FilesManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/home/com/assesment/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/home/com/assesment/csv/CsvReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/java/home/com/assesment/file/FilesManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/com/assesment/cucumber/CukesRunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/com/assesment/cucumber/HooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/com/assesment/cucumber/StepDefinitionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/com/assesment/file/FilesManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/features/search.features">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/features/vehicledetails.features">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/FilesManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/cucumber/CukesRunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/cucumber/Hooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/cucumber/HooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/cucumber/StepDefinitionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/java/home/com/assesment/file/FilesManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/resources/test1_mime.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/resources/test2_mime.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment/src/test/resources/test3_mime.xlst">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/paths/vehicledetails.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hotels/com/assesment/driver/Browser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hotels/com/assesment/driver/BrowserSetup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hotels/com/assesment/driver/DriverListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hotels/com/assesment/driver/DriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/hotels/com/assesment/prestigeScripts/seleniumWebsiteTest/MyFirstTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/hotels/com/assesment/prestigeScripts/seleniumWebsiteTest/Tests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../brand/brand-crt/src/main/java/com/hotels/functionaltest/framework/brand/pageobjects/modules/rewards/header/RewardsModuleCard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/jenkins-client/src/main/java/com/hotels/cq/htestbot/jenkins/core/jenkinsbuild/JenkinsBuild.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/jenkins-client/src/main/java/com/hotels/cq/htestbot/jenkins/core/jenkinsbuild/JenkinsBuildParamJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/jenkins-client/src/test/java/com/hotels/cq/htestbot/jenkins/core/jenkinsbuild/JenkinsBuildJobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/jenkins-client/src/test/java/com/hotels/cq/htestbot/jenkins/core/jenkinsbuild/JenkinsBuildParamJobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/jenkins-client/src/test/java/com/hotels/cq/htestbot/jenkins/core/jenkinsbuild/JenkinsBuildTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../htestbot/web/src/main/java/com/hotels/cq/htestbot/web/controller/ApplicationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
